@@ -1,0 +1,4 @@
+1,Soap,45,50
+2,Toothpaste,60.5,30
+1,milk,50,5
+1010,bread,50,35
