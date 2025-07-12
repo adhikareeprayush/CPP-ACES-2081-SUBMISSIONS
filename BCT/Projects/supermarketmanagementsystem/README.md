@@ -4,6 +4,14 @@
 
 The **Supermarket Management System** is a simple console-based application developed in C++ that helps manage the essential operations of a small supermarket or retail store. It provides functionality to maintain an inventory of products and allows cashiers to generate customer bills efficiently. The system supports product addition, editing, deletion, stock tracking, and billing with an easy-to-read receipt format.
 
+
+## TEAM MEMBERS
+- Swaroop Ratna Shakya
+- Suman Baral
+- Sandesh Karki
+
+
+
 ## Purpose and Motivation
 
 Managing inventory and billing manually in small retail shops can be error-prone and time-consuming. This project was created to automate and simplify:
