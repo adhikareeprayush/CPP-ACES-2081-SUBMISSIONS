@@ -1,0 +1,2 @@
+This is the 5th class on 3rd July Thursday.
+ --> This class will be about Inheritence and Ploymorphism and Virtual Functions.
