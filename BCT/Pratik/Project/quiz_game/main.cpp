@@ -111,7 +111,7 @@ int main() {
                 start_quiz();
                 break;
             case 2:
-                cout << "👋 Thank you for playing!" << endl;
+                cout << "Thank you for playing!" << endl;
                 break;
             default:
                 cout << "Invalid choice. Try again." << endl;
