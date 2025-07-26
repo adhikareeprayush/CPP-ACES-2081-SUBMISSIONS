@@ -1,0 +1,6 @@
+//function templates
+
+template <typename T>
+T functionName(T a, T b) {
+    // Your code here
+}
