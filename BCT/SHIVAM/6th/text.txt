@@ -1,3 +1,0 @@
-This is the 6th class on 4th July.
-
-This will be about Operator overloading.

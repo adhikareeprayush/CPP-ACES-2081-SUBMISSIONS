@@ -1,5 +1,0 @@
-It's First class for me.
-This is the Third class on First July. Tuesday.
-
-
-// Functions and arrays and pointers.
