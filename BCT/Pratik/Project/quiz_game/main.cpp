@@ -94,7 +94,7 @@ void start_quiz() {
         }
     }
 
-    cout << "\n🎉 You scored " << score << " out of " << numQuestions << "." << endl;
+    cout << "\nCongratulations! You have scored " << score << " out of " << numQuestions << "." << endl;
 }
 int main() {
     int choice;
