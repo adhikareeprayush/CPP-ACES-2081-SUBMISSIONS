@@ -1,19 +1,16 @@
 // Simplified CLI Todo List with Undo (Single-Level Undo)
-// Author: Simplified Version
 
 #include <iostream>
 #include <vector>
 #include <string>
 using namespace std;
 
-// Define the Task structure
+
 struct Task {
     int id;
     string text;
     bool done;
 };
-
-// Class to manage the Todo List
 class TodoList {
     vector<Task> tasks;
     vector<Task> backup;
